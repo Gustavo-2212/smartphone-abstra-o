@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\bin\Debug\net6.0\Smartphone.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\bin\Debug\net6.0\Smartphone.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\bin\Debug\net6.0\Smartphone.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\bin\Debug\net6.0\Smartphone.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\bin\Debug\net6.0\Smartphone.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\refint\Smartphone.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\Smartphone.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Smartphone\obj\Debug\net6.0\ref\Smartphone.dll
